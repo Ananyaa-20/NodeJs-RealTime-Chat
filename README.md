@@ -1,7 +1,1 @@
-# Fullstack Chat project
-
-This project allows to setup fullstack chat for any frontend/backend combination!
-
-Connect React, Vue, or Angular and any backend you wish!
-
-This should fully support all your fullstack chat needs!
+The Node.js Real-Time Chat project built using React.js and Node.js with a client-server architecture aims to create a real-time chat application that allows users to communicate with each other instantly. The project will utilize React.js for the front end, and Node.js for the back end, and establish a client-server communication channel.
